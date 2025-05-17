@@ -3,3 +3,4 @@ flask
 rembg
 Pillow
 flask_cors
+onnxruntime
